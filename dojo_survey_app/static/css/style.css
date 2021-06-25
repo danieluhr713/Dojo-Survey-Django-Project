@@ -1,0 +1,23 @@
+h1 {
+    color: blue
+}
+
+form {
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.border {
+    border-color: red;
+}
+
+.container {
+    justify-items: center;
+}
+
+#full_name_input {
+    width: 300px;
+    margin-left: 105px;
+}
